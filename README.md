@@ -3,12 +3,12 @@
 
 ---
 
-## Translations
+## Translations · by [dexter-translator-helper-app](https://github.com/apps/dexter-translator-helper-app)
 
 ### init/
 
 - **War of Thrones – Krieg der Könige E3.md**
-  [en](_i18n/en/init/War of Thrones – Krieg der Könige E3.md) · [ja](_i18n/ja/init/War of Thrones – Krieg der Könige E3.md) · [ko](_i18n/ko/init/War of Thrones – Krieg der Könige E3.md)
+  [en](_i18n/en/init/War%20of%20Thrones%20%E2%80%93%20Krieg%20der%20K%C3%B6nige%20E3.md) · [ja](_i18n/ja/init/War%20of%20Thrones%20%E2%80%93%20Krieg%20der%20K%C3%B6nige%20E3.md) · [ko](_i18n/ko/init/War%20of%20Thrones%20%E2%80%93%20Krieg%20der%20K%C3%B6nige%20E3.md)
 
 ### init/c/
 
@@ -19,18 +19,6 @@
 
 - **4.md**
   [de](_i18n/de/init/c/d/4.md) · [ja](_i18n/ja/init/c/d/4.md)
-
-|----------|---|---|---|
-| init/War of Thrones – Krieg der Könige E3.md | [de](_i18n/de/init/War of Thrones – Krieg der Könige E3.md) | [en](_i18n/en/init/War of Thrones – Krieg der Könige E3.md) | [es](_i18n/es/init/War of Thrones – Krieg der Könige E3.md) |
-
-|----------|---|---|---|---|---|
-| init/War of Thrones – Krieg der Könige E3.md | [de](_i18n/de/init/War of Thrones – Krieg der Könige E3.md) | [en](_i18n/en/init/War of Thrones – Krieg der Könige E3.md) | [es](_i18n/es/init/War of Thrones – Krieg der Könige E3.md) | - | - |
-| init/c/3.md | - | - | - | [ja](_i18n/ja/init/c/3.md) | [ko](_i18n/ko/init/c/3.md) |
-| init/c/d/4.md | - | - | - | [ja](_i18n/ja/init/c/d/4.md) | [ko](_i18n/ko/init/c/d/4.md) |
-| init/《战争王座》第一集（1328–1392）.md | [de](_i18n/de/init/《战争王座》第一集（1328–1392）.md) | [en](_i18n/en/init/《战争王座》第一集（1328–1392）.md) | [es](_i18n/es/init/《战争王座》第一集（1328–1392）.md) | - | - |
-| init/《战争王座》第二集（1392–1453）.md | [de](_i18n/de/init/《战争王座》第二集（1392–1453）.md) | [en](_i18n/en/init/《战争王座》第二集（1392–1453）.md) | [es](_i18n/es/init/《战争王座》第二集（1392–1453）.md) | - | - |
-
----
 
 ## Translations
 
