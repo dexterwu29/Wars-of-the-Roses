@@ -5,7 +5,21 @@
 
 ## Translations
 
-| Document | de | en | es |
+### init/
+
+- **War of Thrones – Krieg der Könige E3.md**
+  [en](_i18n/en/init/War of Thrones – Krieg der Könige E3.md) · [ja](_i18n/ja/init/War of Thrones – Krieg der Könige E3.md) · [ko](_i18n/ko/init/War of Thrones – Krieg der Könige E3.md)
+
+### init/c/
+
+- **3.md**
+  [de](_i18n/de/init/c/3.md) · [ja](_i18n/ja/init/c/3.md)
+
+### init/c/d/
+
+- **4.md**
+  [de](_i18n/de/init/c/d/4.md) · [ja](_i18n/ja/init/c/d/4.md)
+
 |----------|---|---|---|
 | init/War of Thrones – Krieg der Könige E3.md | [de](_i18n/de/init/War of Thrones – Krieg der Könige E3.md) | [en](_i18n/en/init/War of Thrones – Krieg der Könige E3.md) | [es](_i18n/es/init/War of Thrones – Krieg der Könige E3.md) |
 
