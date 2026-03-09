@@ -30,3 +30,12 @@
 
 - **4.md**
   [de](_i18n/de/init/c/d/4.md) · [es](_i18n/es/init/c/d/4.md) · [fr](_i18n/fr/init/c/d/4.md) · [ja](_i18n/ja/init/c/d/4.md) · [ko](_i18n/ko/init/c/d/4.md)
+
+---
+
+## Translations · by [dexter-translator-helper-app](https://github.com/apps/dexter-translator-helper-app)
+
+### init/c/
+
+- **3.md**
+  [en](_i18n/en/init/c/3.md) · [ja](_i18n/ja/init/c/3.md)
